@@ -1,0 +1,11 @@
+#contains every python library that the project is depend on
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended
+passlib
+flask-migrate #flask-migrate is the connection between alembic and flask
+gunicorn
+psycopg2
